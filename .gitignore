@@ -1,2 +1,19 @@
 # Ignore Environment Variables
 .env 
+
+# Virtual Environments 
+myvenv/ 
+venv/ 
+env/ 
+.venv 
+
+# Python Files 
+__pycache__/ 
+*.py[cod] 
+*$py.class 
+*.so  
+.Python 
+
+#Jupyter Notebooks 
+.ipynb_checkpoints 
+
