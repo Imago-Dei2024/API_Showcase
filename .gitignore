@@ -17,3 +17,5 @@ __pycache__/
 #Jupyter Notebooks 
 .ipynb_checkpoints 
 
+# Example Files 
+examples/
