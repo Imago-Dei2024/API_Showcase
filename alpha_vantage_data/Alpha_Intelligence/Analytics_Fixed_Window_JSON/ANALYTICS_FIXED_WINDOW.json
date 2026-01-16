@@ -1,0 +1,18 @@
+{
+  "meta_data": {
+    "symbols": "MSFT,SPY,AAPL",
+    "min_dt": "1999-11-01",
+    "max_dt": "2025-09-02",
+    "ohlc": "Close",
+    "interval": "DAILY"
+  },
+  "payload": {
+    "RETURNS_CALCULATIONS": {
+      "CUMULATIVE_RETURN": {
+        "MSFT": 16.83271224662639,
+        "SPY": 6.479178718611764,
+        "AAPL": 393.3505993266041
+      }
+    }
+  }
+}

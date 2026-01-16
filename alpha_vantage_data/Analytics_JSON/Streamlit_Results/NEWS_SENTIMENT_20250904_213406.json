@@ -1,0 +1,2185 @@
+{
+  "items": "50",
+  "sentiment_score_definition": "x <= -0.35: Bearish; -0.35 < x <= -0.15: Somewhat-Bearish; -0.15 < x < 0.15: Neutral; 0.15 <= x < 0.35: Somewhat_Bullish; x >= 0.35: Bullish",
+  "relevance_score_definition": "0 < x <= 1, with a higher score indicating higher relevance.",
+  "feed": [
+    {
+      "title": "Recorded Live at Analog Season Two Premieres on Public Television Stations and YouTube Beginning September 4  ( Check Local Listings ) ",
+      "url": "https://www.benzinga.com/pressreleases/25/09/n47514275/recorded-live-at-analog-season-two-premieres-on-public-television-stations-and-youtube-beginning-s",
+      "time_published": "20250905T024900",
+      "authors": [
+        "PRNewswire"
+      ],
+      "summary": "NASHVILLE, Tenn., Sept. 4, 2025 /PRNewswire/ -- Season two of Recorded Live at Analog premieres Thursday, September 4. Produced by iMaggination, Inc., presented on public television by Nashville PBS, and sponsored by SAVAS atelier, the series showcases major artists performing in Nashville's ...",
+      "banner_image": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+      "source": "Benzinga",
+      "category_within_source": "General",
+      "source_domain": "www.benzinga.com",
+      "topics": [
+        {
+          "topic": "Technology",
+          "relevance_score": "1.0"
+        }
+      ],
+      "overall_sentiment_score": 0.26076,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "LVRO",
+          "relevance_score": "0.103331",
+          "ticker_sentiment_score": "0.0",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "GOOG",
+          "relevance_score": "0.204936",
+          "ticker_sentiment_score": "0.321298",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "ROSEN, A TOP RANKED LAW FIRM, Encourages Lineage, Inc. Investors to Secure Counsel Before Important Deadline in Securities Class Action - LINE - Lineage  ( NASDAQ:LINE ) ",
+      "url": "https://www.benzinga.com/pressreleases/25/09/g47514216/rosen-a-top-ranked-law-firm-encourages-lineage-inc-investors-to-secure-counsel-before-important-de",
+      "time_published": "20250905T022710",
+      "authors": [
+        "Globe Newswire"
+      ],
+      "summary": "NEW YORK, Sept. 04, 2025 ( GLOBE NEWSWIRE ) -- WHY: Rosen Law Firm, a global investor rights law firm, reminds purchasers of Lineage, Inc.",
+      "banner_image": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+      "source": "Benzinga",
+      "category_within_source": "News",
+      "source_domain": "www.benzinga.com",
+      "topics": [
+        {
+          "topic": "IPO",
+          "relevance_score": "0.451494"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.938793"
+        },
+        {
+          "topic": "Earnings",
+          "relevance_score": "0.538269"
+        },
+        {
+          "topic": "Technology",
+          "relevance_score": "1.0"
+        }
+      ],
+      "overall_sentiment_score": 0.091614,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "META",
+          "relevance_score": "0.055621",
+          "ticker_sentiment_score": "0.0",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "LINE",
+          "relevance_score": "0.469935",
+          "ticker_sentiment_score": "-0.053438",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Braze Revenue Jumps 24 Percent in Q2",
+      "url": "https://www.fool.com/data-news/2025/09/05/braze-revenue-jumps-24-percent-in-q2/",
+      "time_published": "20250905T001843",
+      "authors": [
+        "Motley Fool Markets Team"
+      ],
+      "summary": "Braze ( NASDAQ:BRZE ) reported fiscal 2Q2026 results on September 4, 2025, with revenue of $180 million, up 24% year-over-year, and non-GAAP operating income of $6 million. The company's customer count rose to 2,422, including early contributions from OfferFit, and raised its full-year FY2026 ...",
+      "banner_image": "https://cdn.content.foolcdn.com/images/1umn9qeh/production/79b766e4527704fb4e4eec7aac870a082e9907fc-1024x1024.png",
+      "source": "Motley Fool",
+      "category_within_source": "n/a",
+      "source_domain": "www.fool.com",
+      "topics": [
+        {
+          "topic": "Earnings",
+          "relevance_score": "0.999922"
+        },
+        {
+          "topic": "Technology",
+          "relevance_score": "1.0"
+        }
+      ],
+      "overall_sentiment_score": 0.332391,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "BRZE",
+          "relevance_score": "0.360752",
+          "ticker_sentiment_score": "0.292289",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "XRP Hits a Wall, Solana Slips, and Pump Puffs Its Chest: Analysis",
+      "url": "https://decrypt.co/338176/xrp-hits-wall-solana-slips-pump-puffs-price-analysis",
+      "time_published": "20250905T000151",
+      "authors": [
+        "Jose Antonio Lanz"
+      ],
+      "summary": "Crypto markets navigate mixed signals with XRP down and Solana slipping while Pump.fun's PUMP gains amid Red September volatility.",
+      "banner_image": "https://img.decrypt.co/insecure/rs:fit:3840:0:0:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/09/XRPUSD_2025-09-04_20-24-40.png@webp",
+      "source": "Decrypt.co",
+      "category_within_source": "n/a",
+      "source_domain": "decrypt.co",
+      "topics": [
+        {
+          "topic": "Economy - Monetary",
+          "relevance_score": "0.158519"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.650727"
+        },
+        {
+          "topic": "Technology",
+          "relevance_score": "1.0"
+        },
+        {
+          "topic": "Blockchain",
+          "relevance_score": "0.158519"
+        },
+        {
+          "topic": "Economy - Macro",
+          "relevance_score": "0.158519"
+        }
+      ],
+      "overall_sentiment_score": 0.082953,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "SY",
+          "relevance_score": "0.033144",
+          "ticker_sentiment_score": "0.064497",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Figma's Shares Slide Following Earnings as Company Says It Isn't a Bitcoin Treasury",
+      "url": "https://decrypt.co/338171/figmas-shares-slide-earnings-company-says-it-isnt-bitcoin-treasury",
+      "time_published": "20250904T234719",
+      "authors": [
+        "Mat Di Salvo"
+      ],
+      "summary": "Figma boss Dylan Field said Thursday that his company was not primarily focused on Bitcoin, but instead on design.",
+      "banner_image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/05/Bitcoin-decrypt-style-20-gID_7.png",
+      "source": "Decrypt.co",
+      "category_within_source": "n/a",
+      "source_domain": "decrypt.co",
+      "topics": [
+        {
+          "topic": "IPO",
+          "relevance_score": "0.158519"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.538269"
+        },
+        {
+          "topic": "Earnings",
+          "relevance_score": "0.360215"
+        },
+        {
+          "topic": "Technology",
+          "relevance_score": "1.0"
+        }
+      ],
+      "overall_sentiment_score": 0.058468,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "MSTR",
+          "relevance_score": "0.140896",
+          "ticker_sentiment_score": "0.0",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "FIG",
+          "relevance_score": "0.522333",
+          "ticker_sentiment_score": "0.006455",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "CRYPTO:BTC",
+          "relevance_score": "0.844427",
+          "ticker_sentiment_score": "0.036651",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Here's How Much You Would Have Made Owning Pure Storage Stock In The Last 5 Years - Pure Storage  ( NYSE:PSTG ) ",
+      "url": "https://www.benzinga.com/insights/news/25/09/47513096/heres-how-much-you-would-have-made-owning-pure-storage-stock-in-the-last-5-years",
+      "time_published": "20250904T234526",
+      "authors": [
+        "Benzinga Insights"
+      ],
+      "summary": "Pure Storage PSTG has outperformed the market over the past 5 years by 26.19% on an annualized basis producing an average annual return of 40.46%. Currently, Pure Storage has a market capitalization of $25.82 billion.",
+      "banner_image": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+      "source": "Benzinga",
+      "category_within_source": "Trading",
+      "source_domain": "www.benzinga.com",
+      "topics": [
+        {
+          "topic": "Technology",
+          "relevance_score": "1.0"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.161647"
+        }
+      ],
+      "overall_sentiment_score": 0.181243,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "PSTG",
+          "relevance_score": "0.967875",
+          "ticker_sentiment_score": "0.385622",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Why Meta Platforms Stock Outpaced the Market Today",
+      "url": "https://www.fool.com/investing/2025/09/04/why-meta-platforms-stock-outpaced-the-market-today/",
+      "time_published": "20250904T232457",
+      "authors": [
+        "Eric Volkman"
+      ],
+      "summary": "Fears are receding of regulators breaking up tech giants into smaller businesses.",
+      "banner_image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F832103%2Fperson-using-a-laptop-and-tablet-simultaneously.jpg&op=resize&w=700",
+      "source": "Motley Fool",
+      "category_within_source": "n/a",
+      "source_domain": "www.fool.com",
+      "topics": [
+        {
+          "topic": "Technology",
+          "relevance_score": "1.0"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.538269"
+        }
+      ],
+      "overall_sentiment_score": 0.203571,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "GOOG",
+          "relevance_score": "0.108958",
+          "ticker_sentiment_score": "0.013686",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "META",
+          "relevance_score": "0.318897",
+          "ticker_sentiment_score": "0.339656",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Guidewire Posts 22% Revenue Jump in Q4",
+      "url": "https://www.fool.com/data-news/2025/09/04/guidewire-posts-22-revenue-jump-in-q4/",
+      "time_published": "20250904T230625",
+      "authors": [
+        "Motley Fool Markets Team"
+      ],
+      "summary": "Guidewire Software ( NYSE:GWRE ) , a leading provider of software for the property and casualty insurance industry, reported its fiscal fourth-quarter 2025 earnings on Sept. 4, 2025. The standout news was Guidewire surpassing $1 billion in annual recurring revenue ( ARR ) as of Q4 FY2025 and ...",
+      "banner_image": "https://cdn.content.foolcdn.com/images/1umn9qeh/production/2e67fde4d458002cf59f26acf09dd58f97b62ce0-1024x1024.png",
+      "source": "Motley Fool",
+      "category_within_source": "n/a",
+      "source_domain": "www.fool.com",
+      "topics": [
+        {
+          "topic": "Earnings",
+          "relevance_score": "1.0"
+        },
+        {
+          "topic": "Technology",
+          "relevance_score": "1.0"
+        }
+      ],
+      "overall_sentiment_score": 0.264164,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "GWRE",
+          "relevance_score": "0.089965",
+          "ticker_sentiment_score": "0.15272",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "iManage Reports Strong ANZ Growth as Firms Embrace Cloud and AI",
+      "url": "https://www.benzinga.com/pressreleases/25/09/g47512765/imanage-reports-strong-anz-growth-as-firms-embrace-cloud-and-ai",
+      "time_published": "20250904T230000",
+      "authors": [
+        "Globe Newswire"
+      ],
+      "summary": "CHICAGO, Sept. 05, 2025 ( GLOBE NEWSWIRE ) -- iManage, the company dedicated to Making Knowledge Work\u2122, today announced strong regional growth, highlighted by a 129% year-over-year increase in professionals migrating to iManage Cloud in Australia and New Zealand ( ANZ ) .",
+      "banner_image": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+      "source": "Benzinga",
+      "category_within_source": "General",
+      "source_domain": "www.benzinga.com",
+      "topics": [
+        {
+          "topic": "Technology",
+          "relevance_score": "1.0"
+        }
+      ],
+      "overall_sentiment_score": 0.509496,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "GOOG",
+          "relevance_score": "0.054732",
+          "ticker_sentiment_score": "0.0",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Palo Alto Networks CEO says the enterprise may not welcome agentic AI browsers",
+      "url": "https://www.cnbc.com/2025/09/04/palo-alto-networks-ceo-says-the-enterprise-may-not-welcome-agentic-ai-browsers.html",
+      "time_published": "20250904T224841",
+      "authors": [],
+      "summary": "Palo Alto Netwoks CEO Nikesh Arora described potential challenges that come with browsers run by agentic AI.",
+      "banner_image": null,
+      "source": "CNBC",
+      "category_within_source": "Top News",
+      "source_domain": "www.cnbc.com",
+      "topics": [
+        {
+          "topic": "Technology",
+          "relevance_score": "1.0"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.451494"
+        }
+      ],
+      "overall_sentiment_score": 0.150577,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "META",
+          "relevance_score": "0.101154",
+          "ticker_sentiment_score": "-0.097023",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "PANW",
+          "relevance_score": "0.200688",
+          "ticker_sentiment_score": "0.299389",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Auction of Washington Wines Announces New Executive Director Katie Maltais",
+      "url": "https://www.benzinga.com/pressreleases/25/09/g47512410/auction-of-washington-wines-announces-new-executive-director-katie-maltais",
+      "time_published": "20250904T221432",
+      "authors": [
+        "Globe Newswire"
+      ],
+      "summary": "SEATTLE, Sept. 04, 2025 ( GLOBE NEWSWIRE ) -- The Auction of Washington Wines, one of the nation's top charity wine auctions, is thrilled to announce Katie Maltais as its new Executive Director. Maltais is an award-winning nonprofit leader who most recently served as Executive Director of The 5th ...",
+      "banner_image": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+      "source": "Benzinga",
+      "category_within_source": "News",
+      "source_domain": "www.benzinga.com",
+      "topics": [
+        {
+          "topic": "Technology",
+          "relevance_score": "1.0"
+        }
+      ],
+      "overall_sentiment_score": 0.396008,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "META",
+          "relevance_score": "0.064623",
+          "ticker_sentiment_score": "0.211463",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Why Global-e Online Stock Raced Almost 5% Higher Today",
+      "url": "https://www.fool.com/investing/2025/09/04/why-global-e-online-stock-raced-almost-5-higher-to/",
+      "time_published": "20250904T221400",
+      "authors": [
+        "Eric Volkman"
+      ],
+      "summary": "The e-commerce facilitator is about to start transacting in its own shares.",
+      "banner_image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F832091%2Fperson-reacting-joyfully-to-something-on-a-smartphone.jpg&op=resize&w=700",
+      "source": "Motley Fool",
+      "category_within_source": "n/a",
+      "source_domain": "www.fool.com",
+      "topics": [
+        {
+          "topic": "Technology",
+          "relevance_score": "1.0"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.214378"
+        }
+      ],
+      "overall_sentiment_score": 0.401142,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "GLBE",
+          "relevance_score": "0.470174",
+          "ticker_sentiment_score": "0.519844",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "SeaStar Medical to Participate in the HC Wainwright 27th Annual Global Investment Conference - SeaStar Medical Holding  ( NASDAQ:ICU ) ",
+      "url": "https://www.benzinga.com/pressreleases/25/09/g47512408/seastar-medical-to-participate-in-the-hc-wainwright-27th-annual-global-investment-conference",
+      "time_published": "20250904T221342",
+      "authors": [
+        "Globe Newswire"
+      ],
+      "summary": "DENVER, Sept. 04, 2025 ( GLOBE NEWSWIRE ) -- SeaStar Medical Holding Corporation ICU, a commercial-stage healthcare company focused on transforming treatments for critically ill patients facing organ failure and potential loss of life, announced today its participation in the upcoming HC ...",
+      "banner_image": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+      "source": "Benzinga",
+      "category_within_source": "News",
+      "source_domain": "www.benzinga.com",
+      "topics": [
+        {
+          "topic": "Technology",
+          "relevance_score": "1.0"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.161647"
+        }
+      ],
+      "overall_sentiment_score": 0.0,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "ICU",
+          "relevance_score": "0.551295",
+          "ticker_sentiment_score": "-0.024092",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "SeaStar Medical to Participate in the HC Wainwright 27th Annual Global Investment Conference",
+      "url": "https://www.globenewswire.com/news-release/2025/09/04/3145037/0/en/SeaStar-Medical-to-Participate-in-the-HC-Wainwright-27th-Annual-Global-Investment-Conference.html",
+      "time_published": "20250904T221300",
+      "authors": [
+        "SeaStar Medical"
+      ],
+      "summary": "DENVER, Sept. 04, 2025 ( GLOBE NEWSWIRE ) -- SeaStar Medical Holding Corporation ( Nasdaq: ICU ) , a commercial-stage healthcare company focused on transforming treatments for critically ill patients facing organ failure and potential loss of life, announced today its participation in the ...",
+      "banner_image": "https://ml.globenewswire.com/Resource/Download/e5c40d1b-8302-4e46-be95-030dbb3dc6d0",
+      "source": "GlobeNewswire",
+      "category_within_source": "n/a",
+      "source_domain": "www.globenewswire.com",
+      "topics": [
+        {
+          "topic": "Technology",
+          "relevance_score": "1.0"
+        }
+      ],
+      "overall_sentiment_score": -0.017107,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "ICU",
+          "relevance_score": "0.587597",
+          "ticker_sentiment_score": "-0.028563",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Evolve US Equity UltraYield ETF Expected to Begin Trading on September 10, 2025",
+      "url": "https://www.benzinga.com/pressreleases/25/09/n47512172/evolve-us-equity-ultrayield-etf-expected-to-begin-trading-on-september-10-2025",
+      "time_published": "20250904T214900",
+      "authors": [
+        "PRNewswire"
+      ],
+      "summary": "TORONTO, Sept. 4, 2025 /CNW/ - Evolve Funds Group Inc. ( \"Evolve\" or the \"Manager\" ) is pleased to announce that it has filed a final prospectus with plans to bring Evolve US Equity UltraYield ETF ( \"BIGY\" ) to Canadian investors.",
+      "banner_image": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+      "source": "Benzinga",
+      "category_within_source": "Markets",
+      "source_domain": "www.benzinga.com",
+      "topics": [
+        {
+          "topic": "Technology",
+          "relevance_score": "1.0"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.999998"
+        }
+      ],
+      "overall_sentiment_score": 0.220902,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "GOOG",
+          "relevance_score": "0.068112",
+          "ticker_sentiment_score": "0.180762",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "META",
+          "relevance_score": "0.068112",
+          "ticker_sentiment_score": "0.180762",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Samsara Inc.  ( IOT )  Q2 Earnings and Revenues Beat Estimates",
+      "url": "https://www.zacks.com/stock/news/2747374/samsara-inc-iot-q2-earnings-and-revenues-beat-estimates",
+      "time_published": "20250904T214503",
+      "authors": [
+        "Zacks Equity Research"
+      ],
+      "summary": "Samsara Inc. (IOT) delivered earnings and revenue surprises of +71.43% and +5.15%, respectively, for the quarter ended July 2025. Do the numbers hold clues to what lies ahead for the stock?",
+      "banner_image": "https://staticx-tuner.zacks.com/images/default_article_images/default281.jpg",
+      "source": "Zacks Commentary",
+      "category_within_source": "n/a",
+      "source_domain": "www.zacks.com",
+      "topics": [
+        {
+          "topic": "Earnings",
+          "relevance_score": "0.999992"
+        },
+        {
+          "topic": "Technology",
+          "relevance_score": "1.0"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.266143"
+        }
+      ],
+      "overall_sentiment_score": 0.141793,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "IOT",
+          "relevance_score": "0.399204",
+          "ticker_sentiment_score": "0.145307",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "RBRK",
+          "relevance_score": "0.206392",
+          "ticker_sentiment_score": "0.0",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Braze, Inc.  ( BRZE )  Q2 Earnings and Revenues Beat Estimates",
+      "url": "https://www.zacks.com/stock/news/2747379/braze-inc-brze-q2-earnings-and-revenues-beat-estimates",
+      "time_published": "20250904T214502",
+      "authors": [
+        "Zacks Equity Research"
+      ],
+      "summary": "Braze (BRZE) delivered earnings and revenue surprises of +400.00% and +4.96%, respectively, for the quarter ended July 2025. Do the numbers hold clues to what lies ahead for the stock?",
+      "banner_image": "https://staticx-tuner.zacks.com/images/default_article_images/default337.jpg",
+      "source": "Zacks Commentary",
+      "category_within_source": "n/a",
+      "source_domain": "www.zacks.com",
+      "topics": [
+        {
+          "topic": "Earnings",
+          "relevance_score": "0.999997"
+        },
+        {
+          "topic": "Technology",
+          "relevance_score": "1.0"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.266143"
+        }
+      ],
+      "overall_sentiment_score": 0.159581,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "BRZE",
+          "relevance_score": "0.404563",
+          "ticker_sentiment_score": "0.146677",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "SNX",
+          "relevance_score": "0.140485",
+          "ticker_sentiment_score": "0.0",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Samsara Posts 30% Revenue Jump in Q2",
+      "url": "https://www.fool.com/data-news/2025/09/04/samsara-posts-30-revenue-jump-in-q2/",
+      "time_published": "20250904T213924",
+      "authors": [
+        "Motley Fool Markets Team"
+      ],
+      "summary": "Samsara ( NYSE:IOT ) , a software platform company focused on digitizing physical operations, released earnings on September 4, 2025. The report revealed standout results: revenue ( GAAP ) was $391.5 million, up 30% year over year and about $18.5 million above the high end of company guidance.",
+      "banner_image": "https://cdn.content.foolcdn.com/images/1umn9qeh/production/2e67fde4d458002cf59f26acf09dd58f97b62ce0-1024x1024.png",
+      "source": "Motley Fool",
+      "category_within_source": "n/a",
+      "source_domain": "www.fool.com",
+      "topics": [
+        {
+          "topic": "Earnings",
+          "relevance_score": "1.0"
+        },
+        {
+          "topic": "Technology",
+          "relevance_score": "1.0"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.161647"
+        }
+      ],
+      "overall_sentiment_score": 0.341102,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "IOT",
+          "relevance_score": "0.313484",
+          "ticker_sentiment_score": "0.325818",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Great Elm Capital Corp. Prices Public Offering of $50 Million of 7.75% Notes Due 2030 - Great Elm Capital  ( NASDAQ:GECC ) ",
+      "url": "https://www.benzinga.com/pressreleases/25/09/g47512082/great-elm-capital-corp-prices-public-offering-of-50-million-of-7-75-notes-due-2030",
+      "time_published": "20250904T213639",
+      "authors": [
+        "Globe Newswire"
+      ],
+      "summary": "PALM BEACH GARDENS, Fla., Sept. 04, 2025 ( GLOBE NEWSWIRE ) -- Great Elm Capital Corp. ( the \"Company\" or \"GECC\" ) GECC announced today the pricing of its underwritten public offering of $50.0 million aggregate principal amount of its 7.75% notes due 2030 ( the \"Notes\" ) , which will result in ...",
+      "banner_image": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+      "source": "Benzinga",
+      "category_within_source": "News",
+      "source_domain": "www.benzinga.com",
+      "topics": [
+        {
+          "topic": "IPO",
+          "relevance_score": "0.158519"
+        },
+        {
+          "topic": "Technology",
+          "relevance_score": "1.0"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.999896"
+        }
+      ],
+      "overall_sentiment_score": 0.179533,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "GEG",
+          "relevance_score": "0.049019",
+          "ticker_sentiment_score": "0.0",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "GECC",
+          "relevance_score": "0.287762",
+          "ticker_sentiment_score": "0.027647",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Great Elm Capital Corp. Prices Public Offering of $50 Million of 7.75% Notes Due 2030",
+      "url": "https://www.globenewswire.com/news-release/2025/09/04/3145026/0/en/Great-Elm-Capital-Corp-Prices-Public-Offering-of-50-Million-of-7-75-Notes-Due-2030.html",
+      "time_published": "20250904T213600",
+      "authors": [
+        "Great Elm Capital Corp."
+      ],
+      "summary": "PALM BEACH GARDENS, Fla., Sept. 04, 2025 ( GLOBE NEWSWIRE ) -- Great Elm Capital Corp. ( the \"Company\" or \"GECC\" ) ( NASDAQ: GECC ) announced today the pricing of its underwritten public offering of $50.0 million aggregate principal amount of its 7.75% notes due 2030 ( the \"Notes\" ) , which will ...",
+      "banner_image": "https://ml.globenewswire.com/Resource/Download/c67af62e-a4ad-40ad-84f3-30e505895084",
+      "source": "GlobeNewswire",
+      "category_within_source": "n/a",
+      "source_domain": "www.globenewswire.com",
+      "topics": [
+        {
+          "topic": "IPO",
+          "relevance_score": "0.158519"
+        },
+        {
+          "topic": "Technology",
+          "relevance_score": "1.0"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.999174"
+        }
+      ],
+      "overall_sentiment_score": 0.182021,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "GEG",
+          "relevance_score": "0.051886",
+          "ticker_sentiment_score": "0.0",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "GECC",
+          "relevance_score": "0.3038",
+          "ticker_sentiment_score": "0.031102",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "VALNEVA ALERT: Bragar Eagel & Squire, P.C. is Investigating Valneva SE on Behalf of Valneva Stockholders and Encourages Investors to Contact the Firm - Valneva  ( NASDAQ:VALN ) ",
+      "url": "https://www.benzinga.com/pressreleases/25/09/g47512071/valneva-alert-bragar-eagel-squire-p-c-is-investigating-valneva-se-on-behalf-of-valneva-stockholder",
+      "time_published": "20250904T213300",
+      "authors": [
+        "Globe Newswire"
+      ],
+      "summary": "Bragar Eagel & Squire, P.C. Litigation Partner Brandon Walker Encourages Investors Who Suffered Losses In Valneva ( VALN ) To Contact Him Directly To Discuss Their Options",
+      "banner_image": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+      "source": "Benzinga",
+      "category_within_source": "News",
+      "source_domain": "www.benzinga.com",
+      "topics": [
+        {
+          "topic": "Technology",
+          "relevance_score": "1.0"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.684621"
+        }
+      ],
+      "overall_sentiment_score": -0.0742,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "META",
+          "relevance_score": "0.089797",
+          "ticker_sentiment_score": "0.0",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "VALN",
+          "relevance_score": "0.633079",
+          "ticker_sentiment_score": "-0.096551",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Bill Holdings Stock Jumps After Starboard Value Builds 8% Stake - BILL Holdings  ( NYSE:BILL ) ",
+      "url": "https://www.benzinga.com/trading-ideas/movers/25/09/47511940/bill-holdings-stock-jumps-after-starboard-value-builds-8-stake",
+      "time_published": "20250904T212250",
+      "authors": [
+        "Adam Eckert"
+      ],
+      "summary": "Activist investor Starboard Value has built an 8% stake in Bill Holdings. Bill Holdings shares are down about 45% year-to-date. Get a Year of Fast, Actionable Trade Alerts for 60% Off This Labor Day",
+      "banner_image": "https://cdn.benzinga.com/files/images/story/2025/09/04/BillHoldings-Site.png?width=1200&height=800&fit=crop",
+      "source": "Benzinga",
+      "category_within_source": "News",
+      "source_domain": "www.benzinga.com",
+      "topics": [
+        {
+          "topic": "Technology",
+          "relevance_score": "1.0"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.992549"
+        }
+      ],
+      "overall_sentiment_score": 0.344614,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "BILL",
+          "relevance_score": "0.874135",
+          "ticker_sentiment_score": "0.587469",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Why AppLovin Stock Bumped Higher Today",
+      "url": "https://www.fool.com/investing/2025/09/04/why-applovin-stock-bumped-higher-today/",
+      "time_published": "20250904T211556",
+      "authors": [
+        "Eric Volkman"
+      ],
+      "summary": "A bull became even more bullish on the company's prospects.",
+      "banner_image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F832082%2Ftwo-people-shake-hands-while-a-third-looks-on-happily-in-front-of-a-lapto-pc.jpg&op=resize&w=700",
+      "source": "Motley Fool",
+      "category_within_source": "n/a",
+      "source_domain": "www.fool.com",
+      "topics": [
+        {
+          "topic": "Earnings",
+          "relevance_score": "0.538269"
+        },
+        {
+          "topic": "Technology",
+          "relevance_score": "1.0"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.796627"
+        }
+      ],
+      "overall_sentiment_score": 0.361595,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "APP",
+          "relevance_score": "0.648497",
+          "ticker_sentiment_score": "0.528098",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "If You Invested $100 In This Stock 15 Years Ago, You Would Have This Much Today - Lam Research  ( NASDAQ:LRCX ) ",
+      "url": "https://www.benzinga.com/insights/news/25/09/47511674/if-you-invested-100-in-this-stock-15-years-ago-you-would-have-this-much-today",
+      "time_published": "20250904T211527",
+      "authors": [
+        "Benzinga Insights"
+      ],
+      "summary": "Lam Research LRCX has outperformed the market over the past 15 years by 12.33% on an annualized basis producing an average annual return of 24.79%. Currently, Lam Research has a market capitalization of $126.33 billion.",
+      "banner_image": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+      "source": "Benzinga",
+      "category_within_source": "News",
+      "source_domain": "www.benzinga.com",
+      "topics": [
+        {
+          "topic": "Technology",
+          "relevance_score": "1.0"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.161647"
+        }
+      ],
+      "overall_sentiment_score": 0.181243,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "LRCX",
+          "relevance_score": "0.967875",
+          "ticker_sentiment_score": "0.385622",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Cerence AI Files Patent Infringement Suit Against Apple",
+      "url": "https://www.globenewswire.com/news-release/2025/09/04/3145017/0/en/Cerence-AI-Files-Patent-Infringement-Suit-Against-Apple.html",
+      "time_published": "20250904T211500",
+      "authors": [
+        "Cerence Operating Company"
+      ],
+      "summary": "Cerence AI today announced the filing of a patent infringement lawsuit against Apple Inc.",
+      "banner_image": "https://ml.globenewswire.com/Resource/Download/873690ee-866c-4dea-9808-10aecc02890f",
+      "source": "GlobeNewswire",
+      "category_within_source": "n/a",
+      "source_domain": "www.globenewswire.com",
+      "topics": [
+        {
+          "topic": "Technology",
+          "relevance_score": "1.0"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.650727"
+        }
+      ],
+      "overall_sentiment_score": 0.193893,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "AAPL",
+          "relevance_score": "0.073546",
+          "ticker_sentiment_score": "-0.047837",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "CRNC",
+          "relevance_score": "0.769861",
+          "ticker_sentiment_score": "0.507293",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Cerence AI Files Patent Infringement Suit Against Apple - Cerence  ( NASDAQ:CRNC ) ",
+      "url": "https://www.benzinga.com/pressreleases/25/09/g47511663/cerence-ai-files-patent-infringement-suit-against-apple",
+      "time_published": "20250904T211500",
+      "authors": [
+        "Globe Newswire"
+      ],
+      "summary": "BURLINGTON, Mass., Sept. 04, 2025 ( GLOBE NEWSWIRE ) -- Cerence Inc. CRNC ( \"Cerence AI\" ) , a global leader pioneering conversational AI-powered user experiences, today announced the filing of a patent infringement lawsuit against Apple Inc. in the United States District Court for the Western ...",
+      "banner_image": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+      "source": "Benzinga",
+      "category_within_source": "News",
+      "source_domain": "www.benzinga.com",
+      "topics": [
+        {
+          "topic": "Technology",
+          "relevance_score": "1.0"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.858979"
+        }
+      ],
+      "overall_sentiment_score": 0.186512,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "AAPL",
+          "relevance_score": "0.068698",
+          "ticker_sentiment_score": "-0.043412",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "CRNC",
+          "relevance_score": "0.804025",
+          "ticker_sentiment_score": "0.496032",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Audi Canada Unveils Event Line-Up At The World's Leading Film Festival",
+      "url": "https://www.benzinga.com/pressreleases/25/09/n47511483/audi-canada-unveils-event-line-up-at-the-worlds-leading-film-festival",
+      "time_published": "20250904T210600",
+      "authors": [
+        "PRNewswire"
+      ],
+      "summary": "TORONTO, Sept. 4, 2025 /CNW/ - Audi Canada is proud to once again host or co-host multiple private events at North America's most prestigious international film festival in Toronto, which this year is celebrating 50 years of incredible artists and storytellers shaping the future of cinema.",
+      "banner_image": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+      "source": "Benzinga",
+      "category_within_source": "General",
+      "source_domain": "www.benzinga.com",
+      "topics": [
+        {
+          "topic": "Earnings",
+          "relevance_score": "0.360215"
+        },
+        {
+          "topic": "Technology",
+          "relevance_score": "1.0"
+        }
+      ],
+      "overall_sentiment_score": 0.429025,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "GOOG",
+          "relevance_score": "0.159569",
+          "ticker_sentiment_score": "0.0",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "META",
+          "relevance_score": "0.159569",
+          "ticker_sentiment_score": "0.0",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Here's How Much $100 Invested In Eaton Corp 5 Years Ago Would Be Worth Today - Eaton Corp  ( NYSE:ETN ) ",
+      "url": "https://www.benzinga.com/insights/news/25/09/47511395/heres-how-much-100-invested-in-eaton-corp-5-years-ago-would-be-worth-today",
+      "time_published": "20250904T210113",
+      "authors": [
+        "Benzinga Insights"
+      ],
+      "summary": "Eaton Corp ETN has outperformed the market over the past 5 years by 13.95% on an annualized basis producing an average annual return of 28.22%. Currently, Eaton Corp has a market capitalization of $137.62 billion.",
+      "banner_image": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+      "source": "Benzinga",
+      "category_within_source": "Trading",
+      "source_domain": "www.benzinga.com",
+      "topics": [
+        {
+          "topic": "Technology",
+          "relevance_score": "1.0"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.161647"
+        }
+      ],
+      "overall_sentiment_score": 0.181243,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "ETN",
+          "relevance_score": "0.967875",
+          "ticker_sentiment_score": "0.385622",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Price Over Earnings Overview: Adobe - Adobe  ( NASDAQ:ADBE ) ",
+      "url": "https://www.benzinga.com/insights/news/25/09/47511362/price-over-earnings-overview-adobe",
+      "time_published": "20250904T210037",
+      "authors": [
+        "Benzinga Insights"
+      ],
+      "summary": "In the current market session, Adobe Inc. ADBE share price is at $344.10, after a 1.26% decrease. Over the past month, the stock went up by 1.79%, but over the past year, it actually fell by 38.89%.",
+      "banner_image": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+      "source": "Benzinga",
+      "category_within_source": "Markets",
+      "source_domain": "www.benzinga.com",
+      "topics": [
+        {
+          "topic": "Earnings",
+          "relevance_score": "0.614606"
+        },
+        {
+          "topic": "Technology",
+          "relevance_score": "1.0"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.413559"
+        }
+      ],
+      "overall_sentiment_score": 0.047798,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "ADBE",
+          "relevance_score": "0.34729",
+          "ticker_sentiment_score": "-0.052724",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Hut 8 Announces Voting Results for Election of Directors - Hut 8  ( NASDAQ:HUT ) ",
+      "url": "https://www.benzinga.com/pressreleases/25/09/g47511345/hut-8-announces-voting-results-for-election-of-directors",
+      "time_published": "20250904T210000",
+      "authors": [
+        "Globe Newswire"
+      ],
+      "summary": "MIAMI, Sept. 04, 2025 ( GLOBE NEWSWIRE ) -- Hut 8 Corp. ( ( Nasdaq, TSX:HUT ) ( \"Hut 8\" or the \"Company\" ) , an energy infrastructure platform integrating power, digital infrastructure, and compute at scale to fuel next-generation, energy-intensive use cases such as Bitcoin mining and ...",
+      "banner_image": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+      "source": "Benzinga",
+      "category_within_source": "News",
+      "source_domain": "www.benzinga.com",
+      "topics": [
+        {
+          "topic": "Technology",
+          "relevance_score": "1.0"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.538269"
+        }
+      ],
+      "overall_sentiment_score": 0.14428,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "HUT",
+          "relevance_score": "0.572601",
+          "ticker_sentiment_score": "0.234398",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "CRYPTO:BTC",
+          "relevance_score": "0.366061",
+          "ticker_sentiment_score": "0.212173",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Trump Says He's Making It 'Very Easy' For Business As Mark Zuckerberg, Tim Cook And Tech CEOs Recite Investment Pledges - Apple  ( NASDAQ:AAPL ) , Advanced Micro Devices  ( NASDAQ:AMD ) ",
+      "url": "https://www.benzinga.com/markets/tech/25/09/47514265/trump-says-hes-making-it-very-easy-for-business-as-mark-zuckerberg-tim-cook-and-tech-ceos-recite-inv",
+      "time_published": "20250905T024754",
+      "authors": [
+        "Ananya Gairola"
+      ],
+      "summary": "On Thursday, President Donald Trump hosted top technology executives at the White House, using the event to tout his business-friendly agenda while pressing leaders on how much they are investing in the U.S. Seated between first lady Melania Trump and Meta Platforms, Inc.",
+      "banner_image": "https://cdn.benzinga.com/files/images/story/2025/09/04/Washington-Dc--United-States--March-21-2.jpeg?width=1200&height=800&fit=crop",
+      "source": "Benzinga",
+      "category_within_source": "News",
+      "source_domain": "www.benzinga.com",
+      "topics": [
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.858979"
+        },
+        {
+          "topic": "Manufacturing",
+          "relevance_score": "0.5"
+        },
+        {
+          "topic": "Technology",
+          "relevance_score": "0.5"
+        },
+        {
+          "topic": "Blockchain",
+          "relevance_score": "0.158519"
+        }
+      ],
+      "overall_sentiment_score": 0.345552,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "MSFT",
+          "relevance_score": "0.259727",
+          "ticker_sentiment_score": "0.327255",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "GOOG",
+          "relevance_score": "0.196344",
+          "ticker_sentiment_score": "0.106645",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "META",
+          "relevance_score": "0.131643",
+          "ticker_sentiment_score": "0.220558",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "NVDA",
+          "relevance_score": "0.196344",
+          "ticker_sentiment_score": "0.105117",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "AAPL",
+          "relevance_score": "0.196344",
+          "ticker_sentiment_score": "0.313165",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "TSLA",
+          "relevance_score": "0.196344",
+          "ticker_sentiment_score": "0.105117",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "AMD",
+          "relevance_score": "0.131643",
+          "ticker_sentiment_score": "0.339042",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "DBI Investor News: If You Have Suffered Losses in Designer Brands Inc.  ( NYSE: DBI ) , You Are Encouraged to Contact The Rosen Law Firm About Your Rights - Designer Brands  ( NYSE:DBI ) ",
+      "url": "https://www.benzinga.com/pressreleases/25/09/g47513967/dbi-investor-news-if-you-have-suffered-losses-in-designer-brands-inc-nyse-dbi-you-are-encouraged-t",
+      "time_published": "20250905T015613",
+      "authors": [
+        "Globe Newswire"
+      ],
+      "summary": "NEW YORK, Sept. 04, 2025 ( GLOBE NEWSWIRE ) -- WHY: Rosen Law Firm, a global investor rights law firm, continues to investigate potential securities claims on behalf of shareholders of Designer Brands Inc.",
+      "banner_image": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+      "source": "Benzinga",
+      "category_within_source": "News",
+      "source_domain": "www.benzinga.com",
+      "topics": [
+        {
+          "topic": "Retail & Wholesale",
+          "relevance_score": "0.5"
+        },
+        {
+          "topic": "Technology",
+          "relevance_score": "0.5"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.839681"
+        }
+      ],
+      "overall_sentiment_score": 0.125838,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "META",
+          "relevance_score": "0.082677",
+          "ticker_sentiment_score": "0.0",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "DBI",
+          "relevance_score": "0.532556",
+          "ticker_sentiment_score": "-0.1294",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Cathie Wood's Swoops In On Figma's 20% Plunge, Ark Invest Scoops Up Shares Worth $5.9 Million - ARK Next Generation Internet ETF  ( BATS:ARKW ) , Figma  ( NYSE:FIG ) ",
+      "url": "https://www.benzinga.com/etfs/broad-u-s-equity-etfs/25/09/47513575/cathie-woods-swoops-in-on-figmas-20-plunge-ark-invest-scoops-up-shares-worth-5-9-milli",
+      "time_published": "20250905T010730",
+      "authors": [
+        "Shivdeep Dhaliwal"
+      ],
+      "summary": "Ark Invest, led by Cathie Wood, made significant trades on Thursday, notably purchasing shares of Figma Inc. FIG. This move comes as Figma's stock experienced a sharp decline due to disappointing earnings results. Ark Invest acquired 108,238 shares of Figma Inc.",
+      "banner_image": "https://cdn.benzinga.com/files/images/story/2025/09/04/Los-Angeles--California---July-6-2025-Ar.jpeg?width=1200&height=800&fit=crop",
+      "source": "Benzinga",
+      "category_within_source": "Markets",
+      "source_domain": "www.benzinga.com",
+      "topics": [
+        {
+          "topic": "Life Sciences",
+          "relevance_score": "0.5"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.99676"
+        },
+        {
+          "topic": "Earnings",
+          "relevance_score": "0.875462"
+        },
+        {
+          "topic": "Technology",
+          "relevance_score": "0.5"
+        }
+      ],
+      "overall_sentiment_score": 0.204022,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "GENI",
+          "relevance_score": "0.268294",
+          "ticker_sentiment_score": "0.408022",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "ROKU",
+          "relevance_score": "0.268294",
+          "ticker_sentiment_score": "0.408022",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "FIG",
+          "relevance_score": "0.696319",
+          "ticker_sentiment_score": "0.084468",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "NTLA",
+          "relevance_score": "0.268294",
+          "ticker_sentiment_score": "0.408022",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "ROSEN, A LEADING LAW FIRM, Encourage Dow Inc. Investors to Secure Counsel Before Important Deadline in Securities Class Action - DOW - Dow  ( NYSE:DOW ) ",
+      "url": "https://www.benzinga.com/pressreleases/25/09/g47513223/rosen-a-leading-law-firm-encourage-dow-inc-investors-to-secure-counsel-before-important-deadline-i",
+      "time_published": "20250904T235300",
+      "authors": [
+        "Globe Newswire"
+      ],
+      "summary": "NEW YORK, Sept. 04, 2025 ( GLOBE NEWSWIRE ) -- WHY: Rosen Law Firm, a global investor rights law firm, announces the filing of a class action lawsuit on behalf of purchasers of securities of Dow Inc. DOW between January 30, 2025 and July 23, 2025, both dates inclusive ( the \"Class Period\" ) .",
+      "banner_image": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+      "source": "Benzinga",
+      "category_within_source": "News",
+      "source_domain": "www.benzinga.com",
+      "topics": [
+        {
+          "topic": "Life Sciences",
+          "relevance_score": "0.5"
+        },
+        {
+          "topic": "Technology",
+          "relevance_score": "0.5"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.650727"
+        }
+      ],
+      "overall_sentiment_score": 0.125257,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "DOW",
+          "relevance_score": "0.18967",
+          "ticker_sentiment_score": "0.072381",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "META",
+          "relevance_score": "0.063763",
+          "ticker_sentiment_score": "0.0",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "UiPath Revenue Jumps 14 Percent",
+      "url": "https://www.fool.com/data-news/2025/09/04/uipath-revenue-jumps-14-percent/",
+      "time_published": "20250904T225006",
+      "authors": [
+        "Motley Fool Markets Team"
+      ],
+      "summary": "UiPath ( NYSE:PATH ) reported second quarter fiscal 2026 results ( period ended July 31, 2025 ) on September 4, 2025, delivering 14% year-over-year revenue growth to $362 million ( non-GAAP ) and 11% annual recurring revenue ( ARR ) growth to $1.723 billion ( non-GAAP ) , both above the high end ...",
+      "banner_image": "https://cdn.content.foolcdn.com/images/1umn9qeh/production/79b766e4527704fb4e4eec7aac870a082e9907fc-1024x1024.png",
+      "source": "Motley Fool",
+      "category_within_source": "n/a",
+      "source_domain": "www.fool.com",
+      "topics": [
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.158519"
+        },
+        {
+          "topic": "Earnings",
+          "relevance_score": "0.999999"
+        },
+        {
+          "topic": "Real Estate & Construction",
+          "relevance_score": "0.5"
+        },
+        {
+          "topic": "Technology",
+          "relevance_score": "0.5"
+        }
+      ],
+      "overall_sentiment_score": 0.227854,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "APG",
+          "relevance_score": "0.072655",
+          "ticker_sentiment_score": "0.085184",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "PATH",
+          "relevance_score": "0.284696",
+          "ticker_sentiment_score": "0.097169",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "DocuSign Q2 Revenue Hits $801 Million",
+      "url": "https://www.fool.com/data-news/2025/09/04/docusign-q2-revenue-hits-801-million/",
+      "time_published": "20250904T222436",
+      "authors": [
+        "Motley Fool Markets Team"
+      ],
+      "summary": "DocuSign ( NASDAQ:DOCU ) reported fiscal Q2 2026 results on September 4, 2025, with revenue of $801 million, up 9% year over year, and billings of $818 million, up 13% year over year, while achieving a non-GAAP operating margin of 30%.",
+      "banner_image": "https://cdn.content.foolcdn.com/images/1umn9qeh/production/79b766e4527704fb4e4eec7aac870a082e9907fc-1024x1024.png",
+      "source": "Motley Fool",
+      "category_within_source": "n/a",
+      "source_domain": "www.fool.com",
+      "topics": [
+        {
+          "topic": "Life Sciences",
+          "relevance_score": "0.5"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.495866"
+        },
+        {
+          "topic": "Earnings",
+          "relevance_score": "0.998356"
+        },
+        {
+          "topic": "Technology",
+          "relevance_score": "0.5"
+        }
+      ],
+      "overall_sentiment_score": 0.350464,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "DOCU",
+          "relevance_score": "0.216215",
+          "ticker_sentiment_score": "0.257242",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "ST",
+          "relevance_score": "0.072876",
+          "ticker_sentiment_score": "0.099167",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "UiPath  ( PATH )  Q2 Earnings and Revenues Beat Estimates",
+      "url": "https://www.zacks.com/stock/news/2747367/uipath-path-q2-earnings-and-revenues-beat-estimates",
+      "time_published": "20250904T214504",
+      "authors": [
+        "Zacks Equity Research"
+      ],
+      "summary": "UiPath (PATH) delivered earnings and revenue surprises of +87.50% and +4.00%, respectively, for the quarter ended July 2025. Do the numbers hold clues to what lies ahead for the stock?",
+      "banner_image": "https://staticx-tuner.zacks.com/images/default_article_images/default23.jpg",
+      "source": "Zacks Commentary",
+      "category_within_source": "n/a",
+      "source_domain": "www.zacks.com",
+      "topics": [
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.266143"
+        },
+        {
+          "topic": "Manufacturing",
+          "relevance_score": "0.5"
+        },
+        {
+          "topic": "Earnings",
+          "relevance_score": "0.999997"
+        },
+        {
+          "topic": "Technology",
+          "relevance_score": "0.5"
+        }
+      ],
+      "overall_sentiment_score": 0.157278,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "PATH",
+          "relevance_score": "0.397098",
+          "ticker_sentiment_score": "0.144764",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "RFIL",
+          "relevance_score": "0.205225",
+          "ticker_sentiment_score": "0.0",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "eGain  ( EGAN )  Beats Q4 Earnings and Revenue Estimates",
+      "url": "https://www.zacks.com/stock/news/2747372/egain-egan-beats-q4-earnings-and-revenue-estimates",
+      "time_published": "20250904T214503",
+      "authors": [
+        "Zacks Equity Research"
+      ],
+      "summary": "eGain (EGAN) delivered earnings and revenue surprises of +28.57% and +1.55%, respectively, for the quarter ended June 2025. Do the numbers hold clues to what lies ahead for the stock?",
+      "banner_image": "https://staticx-tuner.zacks.com/images/default_article_images/default26.jpg",
+      "source": "Zacks Commentary",
+      "category_within_source": "n/a",
+      "source_domain": "www.zacks.com",
+      "topics": [
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.266143"
+        },
+        {
+          "topic": "Manufacturing",
+          "relevance_score": "0.5"
+        },
+        {
+          "topic": "Earnings",
+          "relevance_score": "0.999997"
+        },
+        {
+          "topic": "Technology",
+          "relevance_score": "0.5"
+        }
+      ],
+      "overall_sentiment_score": 0.177488,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "JBL",
+          "relevance_score": "0.140485",
+          "ticker_sentiment_score": "0.0",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "EGAN",
+          "relevance_score": "0.404563",
+          "ticker_sentiment_score": "0.175244",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Guidewire Software  ( GWRE )  Q4 Earnings and Revenues Surpass Estimates",
+      "url": "https://www.zacks.com/stock/news/2747373/guidewire-software-gwre-q4-earnings-and-revenues-surpass-estimates",
+      "time_published": "20250904T214503",
+      "authors": [
+        "Zacks Equity Research"
+      ],
+      "summary": "Guidewire Software (GWRE) delivered earnings and revenue surprises of +35.48% and +5.76%, respectively, for the quarter ended July 2025. Do the numbers hold clues to what lies ahead for the stock?",
+      "banner_image": "https://staticx-tuner.zacks.com/images/default_article_images/default234.jpg",
+      "source": "Zacks Commentary",
+      "category_within_source": "n/a",
+      "source_domain": "www.zacks.com",
+      "topics": [
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.266143"
+        },
+        {
+          "topic": "Manufacturing",
+          "relevance_score": "0.5"
+        },
+        {
+          "topic": "Earnings",
+          "relevance_score": "0.999992"
+        },
+        {
+          "topic": "Technology",
+          "relevance_score": "0.5"
+        }
+      ],
+      "overall_sentiment_score": 0.166427,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "PL",
+          "relevance_score": "0.135729",
+          "ticker_sentiment_score": "0.0",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "GWRE",
+          "relevance_score": "0.391923",
+          "ticker_sentiment_score": "0.204974",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "DocuSign  ( DOCU )  Tops Q2 Earnings and Revenue Estimates",
+      "url": "https://www.zacks.com/stock/news/2747371/docusign-docu-tops-q2-earnings-and-revenue-estimates",
+      "time_published": "20250904T214503",
+      "authors": [
+        "Zacks Equity Research"
+      ],
+      "summary": "DocuSign (DOCU) delivered earnings and revenue surprises of +9.52% and +2.78%, respectively, for the quarter ended July 2025. Do the numbers hold clues to what lies ahead for the stock?",
+      "banner_image": "https://staticx-tuner.zacks.com/images/default_article_images/default307.jpg",
+      "source": "Zacks Commentary",
+      "category_within_source": "n/a",
+      "source_domain": "www.zacks.com",
+      "topics": [
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.266143"
+        },
+        {
+          "topic": "Manufacturing",
+          "relevance_score": "0.5"
+        },
+        {
+          "topic": "Earnings",
+          "relevance_score": "0.999997"
+        },
+        {
+          "topic": "Technology",
+          "relevance_score": "0.5"
+        }
+      ],
+      "overall_sentiment_score": 0.157276,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "DAKT",
+          "relevance_score": "0.206392",
+          "ticker_sentiment_score": "0.0",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "DOCU",
+          "relevance_score": "0.399204",
+          "ticker_sentiment_score": "0.145307",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Broadcom Inc.  ( AVGO )  Surpasses Q3 Earnings and Revenue Estimates",
+      "url": "https://www.zacks.com/stock/news/2747377/broadcom-inc-avgo-surpasses-q3-earnings-and-revenue-estimates",
+      "time_published": "20250904T214502",
+      "authors": [
+        "Zacks Equity Research"
+      ],
+      "summary": "Broadcom Inc. (AVGO) delivered earnings and revenue surprises of +1.81% and +0.78%, respectively, for the quarter ended July 2025. Do the numbers hold clues to what lies ahead for the stock?",
+      "banner_image": "https://staticx-tuner.zacks.com/images/default_article_images/default277.jpg",
+      "source": "Zacks Commentary",
+      "category_within_source": "n/a",
+      "source_domain": "www.zacks.com",
+      "topics": [
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.266143"
+        },
+        {
+          "topic": "Manufacturing",
+          "relevance_score": "0.5"
+        },
+        {
+          "topic": "Earnings",
+          "relevance_score": "0.999992"
+        },
+        {
+          "topic": "Technology",
+          "relevance_score": "0.5"
+        }
+      ],
+      "overall_sentiment_score": 0.164156,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "QMCO",
+          "relevance_score": "0.138066",
+          "ticker_sentiment_score": "0.0",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "AVGO",
+          "relevance_score": "0.398148",
+          "ticker_sentiment_score": "0.207252",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Broadcom Posts 22% Revenue Jump in Q3",
+      "url": "https://www.fool.com/data-news/2025/09/04/broadcom-posts-22-revenue-jump-in-q3/",
+      "time_published": "20250904T214135",
+      "authors": [
+        "Motley Fool Markets Team"
+      ],
+      "summary": "Broadcom ( NASDAQ:AVGO ) , a global leader in semiconductor and infrastructure software solutions, released results for Q3 FY2025 on September 4, 2025. The most important news from this earnings release was the sharp expansion in AI-driven revenue and outperformance on both the top and bottom ...",
+      "banner_image": "https://cdn.content.foolcdn.com/images/1umn9qeh/production/2e67fde4d458002cf59f26acf09dd58f97b62ce0-1024x1024.png",
+      "source": "Motley Fool",
+      "category_within_source": "n/a",
+      "source_domain": "www.fool.com",
+      "topics": [
+        {
+          "topic": "Earnings",
+          "relevance_score": "1.0"
+        },
+        {
+          "topic": "Technology",
+          "relevance_score": "0.5"
+        },
+        {
+          "topic": "Manufacturing",
+          "relevance_score": "0.5"
+        }
+      ],
+      "overall_sentiment_score": 0.334828,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "VMW",
+          "relevance_score": "0.331765",
+          "ticker_sentiment_score": "0.358184",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "AVGO",
+          "relevance_score": "0.279015",
+          "ticker_sentiment_score": "0.314408",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "QUIDELORTHO ALERT: Bragar Eagel & Squire, P.C. is Investigating QuidelOrtho Corporation on Behalf of Long-Term Stockholders and Encourages Investors to Contact the Firm - QuidelOrtho  ( NASDAQ:QDEL ) ",
+      "url": "https://www.benzinga.com/pressreleases/25/09/g47512080/quidelortho-alert-bragar-eagel-squire-p-c-is-investigating-quidelortho-corporation-on-behalf-of-lo",
+      "time_published": "20250904T213500",
+      "authors": [
+        "Globe Newswire"
+      ],
+      "summary": "Bragar Eagel & Squire, P.C. Litigation Partner Brandon Walker Encourages Investors Who Suffered Losses In QuidelOrtho ( QDEL ) To Contact Him Directly To Discuss Their Options",
+      "banner_image": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+      "source": "Benzinga",
+      "category_within_source": "News",
+      "source_domain": "www.benzinga.com",
+      "topics": [
+        {
+          "topic": "Life Sciences",
+          "relevance_score": "0.5"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.538269"
+        },
+        {
+          "topic": "Earnings",
+          "relevance_score": "0.839681"
+        },
+        {
+          "topic": "Technology",
+          "relevance_score": "0.5"
+        }
+      ],
+      "overall_sentiment_score": -0.004806,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "META",
+          "relevance_score": "0.046543",
+          "ticker_sentiment_score": "0.0",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "QDEL",
+          "relevance_score": "0.552001",
+          "ticker_sentiment_score": "-0.071273",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "ORTHOFIX ALERT: Bragar Eagel & Squire, P.C. is Investigating Orthofix Medical Inc. on Behalf of Long-Term Stockholders and Encourages Investors to Contact the Firm - Orthofix Medical  ( NASDAQ:OFIX ) ",
+      "url": "https://www.benzinga.com/pressreleases/25/09/g47511986/orthofix-alert-bragar-eagel-squire-p-c-is-investigating-orthofix-medical-inc-on-behalf-of-long-ter",
+      "time_published": "20250904T212700",
+      "authors": [
+        "Globe Newswire"
+      ],
+      "summary": "Bragar Eagel & Squire, P.C. Litigation Partner Brandon Walker Encourages Investors Who Suffered Losses In Orthofix ( OFIX ) To Contact Him Directly To Discuss Their Options",
+      "banner_image": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+      "source": "Benzinga",
+      "category_within_source": "News",
+      "source_domain": "www.benzinga.com",
+      "topics": [
+        {
+          "topic": "Life Sciences",
+          "relevance_score": "0.5"
+        },
+        {
+          "topic": "Technology",
+          "relevance_score": "0.5"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.858979"
+        }
+      ],
+      "overall_sentiment_score": 0.009652,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "META",
+          "relevance_score": "0.070517",
+          "ticker_sentiment_score": "0.0",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "OFIX",
+          "relevance_score": "0.209365",
+          "ticker_sentiment_score": "-0.128742",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Braze Revenue Jumps 24% in Fiscal Q2",
+      "url": "https://www.fool.com/data-news/2025/09/04/braze-revenue-jumps-24-in-fiscal-q2/",
+      "time_published": "20250904T212224",
+      "authors": [
+        "Motley Fool Markets Team"
+      ],
+      "summary": "Braze ( NASDAQ:BRZE ) , a leader in customer engagement software, released its results for Q2 FY2026 on September 4, 2025. The company reported GAAP revenue of $180.1 million, surpassing both its own financial guidance of $171.0-$172.0 million and consensus analyst estimates, with non-GAAP ...",
+      "banner_image": "https://cdn.content.foolcdn.com/images/1umn9qeh/production/2e67fde4d458002cf59f26acf09dd58f97b62ce0-1024x1024.png",
+      "source": "Motley Fool",
+      "category_within_source": "n/a",
+      "source_domain": "www.fool.com",
+      "topics": [
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.108179"
+        },
+        {
+          "topic": "Earnings",
+          "relevance_score": "1.0"
+        },
+        {
+          "topic": "Real Estate & Construction",
+          "relevance_score": "0.5"
+        },
+        {
+          "topic": "Technology",
+          "relevance_score": "0.5"
+        }
+      ],
+      "overall_sentiment_score": 0.292143,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "CZR",
+          "relevance_score": "0.041901",
+          "ticker_sentiment_score": "0.137077",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "BRZE",
+          "relevance_score": "0.207216",
+          "ticker_sentiment_score": "0.280831",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "SG",
+          "relevance_score": "0.041901",
+          "ticker_sentiment_score": "0.137077",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "MCSHF",
+          "relevance_score": "0.041901",
+          "ticker_sentiment_score": "0.137077",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "OUTSET MEDICAL ALERT: Bragar Eagel & Squire, P.C. is Investigating Outset Medical, Inc. on Behalf of Long-Term Stockholders and Encourages Investors to Contact the Firm - Outset Medical  ( NASDAQ:OM ) ",
+      "url": "https://www.benzinga.com/pressreleases/25/09/g47511896/outset-medical-alert-bragar-eagel-squire-p-c-is-investigating-outset-medical-inc-on-behalf-of-long",
+      "time_published": "20250904T212100",
+      "authors": [
+        "Globe Newswire"
+      ],
+      "summary": "NEW YORK, Sept. 04, 2025 ( GLOBE NEWSWIRE ) -- Bragar Eagel & Squire, P.C., a nationally recognized shareholder rights law firm, is investigating potential claims against Outset Medical, Inc.",
+      "banner_image": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+      "source": "Benzinga",
+      "category_within_source": "News",
+      "source_domain": "www.benzinga.com",
+      "topics": [
+        {
+          "topic": "Life Sciences",
+          "relevance_score": "0.5"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.538269"
+        },
+        {
+          "topic": "Earnings",
+          "relevance_score": "0.360215"
+        },
+        {
+          "topic": "Technology",
+          "relevance_score": "0.5"
+        }
+      ],
+      "overall_sentiment_score": 0.01688,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "META",
+          "relevance_score": "0.091162",
+          "ticker_sentiment_score": "0.0",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "OM",
+          "relevance_score": "0.577173",
+          "ticker_sentiment_score": "0.024607",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "UiPath Revenue Jumps 15% in Fiscal Q2",
+      "url": "https://www.fool.com/data-news/2025/09/04/uipath-revenue-jumps-15-in-fiscal-q2/",
+      "time_published": "20250904T211833",
+      "authors": [
+        "Motley Fool Markets Team"
+      ],
+      "summary": "UiPath ( NYSE:PATH ) , a leading enterprise automation software provider specializing in artificial intelligence ( AI ) -powered robotic process automation, It exceeded the high end of guidance for key metrics-reporting $362 million in GAAP revenue, $1.72 billion in annualized renewal run-rate ( ...",
+      "banner_image": "https://cdn.content.foolcdn.com/images/1umn9qeh/production/2e67fde4d458002cf59f26acf09dd58f97b62ce0-1024x1024.png",
+      "source": "Motley Fool",
+      "category_within_source": "n/a",
+      "source_domain": "www.fool.com",
+      "topics": [
+        {
+          "topic": "Retail & Wholesale",
+          "relevance_score": "0.5"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.214378"
+        },
+        {
+          "topic": "Earnings",
+          "relevance_score": "1.0"
+        },
+        {
+          "topic": "Technology",
+          "relevance_score": "0.5"
+        }
+      ],
+      "overall_sentiment_score": 0.309752,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "PATH",
+          "relevance_score": "0.331209",
+          "ticker_sentiment_score": "0.30813",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "GLP",
+          "relevance_score": "0.042647",
+          "ticker_sentiment_score": "0.182333",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "FOREX:USD",
+          "relevance_score": "0.042647",
+          "ticker_sentiment_score": "0.133119",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Phreesia PHR Q2 2026 Earnings Call Transcript",
+      "url": "https://www.fool.com/earnings/call-transcripts/2025/09/04/phreesia-phr-q2-2026-earnings-call-transcript/",
+      "time_published": "20250904T220317",
+      "authors": [
+        "Motley Fool Transcribing"
+      ],
+      "summary": "Image source: The Motley Fool.Thursday, Sept. 4, 2025 at 5 p.m. ETChief Executive Officer - Chaim IndigContinue reading ...",
+      "banner_image": "https://cdn.content.foolcdn.com/images/1umn9qeh/production/a2a40ac227551191f40e319646e58c421fd8b8c0-400x427.png",
+      "source": "Motley Fool",
+      "category_within_source": "n/a",
+      "source_domain": "www.fool.com",
+      "topics": [
+        {
+          "topic": "Economy - Monetary",
+          "relevance_score": "0.158519"
+        },
+        {
+          "topic": "Life Sciences",
+          "relevance_score": "0.333333"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.976913"
+        },
+        {
+          "topic": "Earnings",
+          "relevance_score": "1.0"
+        },
+        {
+          "topic": "Technology",
+          "relevance_score": "0.333333"
+        },
+        {
+          "topic": "Finance",
+          "relevance_score": "0.333333"
+        }
+      ],
+      "overall_sentiment_score": 0.326439,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "C",
+          "relevance_score": "0.006995",
+          "ticker_sentiment_score": "0.107742",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "DOCS",
+          "relevance_score": "0.006995",
+          "ticker_sentiment_score": "0.07794",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "PHR",
+          "relevance_score": "0.076825",
+          "ticker_sentiment_score": "0.200452",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "CCORF",
+          "relevance_score": "0.013989",
+          "ticker_sentiment_score": "0.152966",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "HCSG",
+          "relevance_score": "0.027974",
+          "ticker_sentiment_score": "0.110271",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "FOREX:USD",
+          "relevance_score": "0.006995",
+          "ticker_sentiment_score": "0.091471",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "EHANG ALERT: Bragar Eagel & Squire, P.C. is Investigating EHang Holdings Limited on Behalf of EHang Stockholders and Encourages Investors to Contact the Firm - EHang Holdings  ( NASDAQ:EH ) ",
+      "url": "https://www.benzinga.com/pressreleases/25/09/g47512287/ehang-alert-bragar-eagel-squire-p-c-is-investigating-ehang-holdings-limited-on-behalf-of-ehang-sto",
+      "time_published": "20250904T215600",
+      "authors": [
+        "Globe Newswire"
+      ],
+      "summary": "Bragar Eagel & Squire, P.C. Litigation Partner Brandon Walker Encourages Investors Who Suffered Losses In EHang ( EH ) To Contact Him Directly To Discuss Their Options",
+      "banner_image": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+      "source": "Benzinga",
+      "category_within_source": "News",
+      "source_domain": "www.benzinga.com",
+      "topics": [
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.538269"
+        },
+        {
+          "topic": "Energy & Transportation",
+          "relevance_score": "0.333333"
+        },
+        {
+          "topic": "Technology",
+          "relevance_score": "0.333333"
+        },
+        {
+          "topic": "Finance",
+          "relevance_score": "0.333333"
+        }
+      ],
+      "overall_sentiment_score": -0.067304,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "META",
+          "relevance_score": "0.110973",
+          "ticker_sentiment_score": "0.0",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "MS",
+          "relevance_score": "0.110973",
+          "ticker_sentiment_score": "-0.085566",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "EH",
+          "relevance_score": "0.790817",
+          "ticker_sentiment_score": "-0.165813",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        }
+      ]
+    },
+    {
+      "title": "Public companies reach 1M Bitcoin, hitting 5.1% of BTC supply",
+      "url": "https://cointelegraph.com/news/public-companies-hit-combined-1-million-bitcoin",
+      "time_published": "20250905T021032",
+      "authors": [
+        "Brayden Lindrea"
+      ],
+      "summary": "Public companies' Bitcoin holdings surpassed 1 million BTC, with Michael Saylor's Strategy maintaining a massive lead amid a wave of entrants.",
+      "banner_image": "https://s3.cointelegraph.com/uploads/2025-09/0199179b-a51b-72f8-92a8-18cb5dcc22bb",
+      "source": "Cointelegraph",
+      "category_within_source": "n/a",
+      "source_domain": "cointelegraph.com",
+      "topics": [
+        {
+          "topic": "Life Sciences",
+          "relevance_score": "0.25"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.875462"
+        },
+        {
+          "topic": "Real Estate & Construction",
+          "relevance_score": "0.25"
+        },
+        {
+          "topic": "Technology",
+          "relevance_score": "0.25"
+        },
+        {
+          "topic": "Finance",
+          "relevance_score": "0.25"
+        },
+        {
+          "topic": "Blockchain",
+          "relevance_score": "0.310843"
+        }
+      ],
+      "overall_sentiment_score": 0.153957,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "RIOT",
+          "relevance_score": "0.064797",
+          "ticker_sentiment_score": "0.201437",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "CLSK",
+          "relevance_score": "0.064797",
+          "ticker_sentiment_score": "0.201437",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "COIN",
+          "relevance_score": "0.064797",
+          "ticker_sentiment_score": "0.201437",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "SMLR",
+          "relevance_score": "0.129168",
+          "ticker_sentiment_score": "-0.013139",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "DJT",
+          "relevance_score": "0.064797",
+          "ticker_sentiment_score": "0.201437",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "CRYPTO:BTC",
+          "relevance_score": "0.999361",
+          "ticker_sentiment_score": "0.290944",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    }
+  ]
+}

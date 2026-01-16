@@ -1,0 +1,22 @@
+{
+  "meta_data": {
+    "symbols": "AAPL",
+    "min_dt": "1999-11-01",
+    "max_dt": "2025-09-04",
+    "ohlc": "Close",
+    "interval": "DAILY"
+  },
+  "payload": {
+    "RETURNS_CALCULATIONS": {
+      "MEAN": {
+        "AAPL": 0.0012379959551732907
+      },
+      "STDDEV": {
+        "AAPL": 0.024472934431471957
+      },
+      "CUMULATIVE_RETURN": {
+        "AAPL": 410.6201754593989
+      }
+    }
+  }
+}
