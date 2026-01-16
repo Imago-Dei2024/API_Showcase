@@ -1,0 +1,18 @@
+API_SHOWCASE/                          (root directory)
+├── alpha_vantage_data/                (your existing modules)
+│   ├── Fundamental_Data/
+│   ├── Core_Stock/
+│   ├── Alpha_Intelligence/
+│   ├── Options/
+│   ├── etc...
+│   └── .env                           (your existing API key)
+│
+└── stock-analysis-pipeline/           (new folder - sibling)
+    ├── data_fetcher.py
+    ├── data_extractor.py
+    ├── data_formatter.py
+    ├── 4_streamlit_app.py
+    ├── run_pipeline.py
+    ├── requirements.txt
+    ├── .env.example
+    └── data/                          (auto-created for output)
