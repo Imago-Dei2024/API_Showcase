@@ -1,0 +1,6 @@
+alpha-vantage 
+requests 
+python-dotenv 
+streamlit 
+pandas 
+numpy 
