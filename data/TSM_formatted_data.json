@@ -1,0 +1,165 @@
+{
+  "company_info": {
+    "Company Name": "Taiwan Semiconductor Manufacturing",
+    "Symbol": "TSM",
+    "Exchange": "NYSE",
+    "Sector": "TECHNOLOGY",
+    "Industry": "SEMICONDUCTORS",
+    "Description": "Taiwan Semiconductor Manufacturing Company, Limited (TSMC) is the leading pure-play semiconductor foundry worldwide, headquartered in Hsinchu, Taiwan. With a strong reputation for innovation and technological excellence, TSMC serves diverse sectors such as telecommunications, high-performance computing, and automotive, underpinning the global technology infrastructure. The company consistently invests in advanced manufacturing processes and cutting-edge technologies, reinforcing its competitive edge in semiconductor fabrication. TSMC's extensive global footprint and strategic partnerships position it favorably to adapt to the dynamic market demands, making it a pivotal player in shaping the future of the semiconductor industry."
+  },
+  "financial_metrics": {
+    "Market Cap": "$1,775,859,139,000",
+    "Revenue (TTM)": "$3,809,054,032,000",
+    "Gross Profit (TTM)": "$2,281,294,004,000",
+    "EBITDA": "$2,624,188,056,000",
+    "Profit Margin": "45.10%"
+  },
+  "valuation_metrics": {
+    "P/E Ratio": "32.67",
+    "PEG Ratio": "1.31",
+    "Price-to-Book(P/B) Ratio": "11.23",
+    "Price-to-Sales(P/S) Ratio": "0.47",
+    "EV-to-Revenue(EV/R) Ratio": "11.36",
+    "EV/EBITDA Ratio": "21.38"
+  },
+  "profitability_metrics": {
+    "Profit Margin": "45.10%",
+    "Operating Margin": "53.80%",
+    "Return-on-Assets (ROA)": "16.60%",
+    "Return-on-Equity (ROE)": "35.20%"
+  },
+  "per_share_metrics": {
+    "EPS": "$10.48",
+    "Diluted EPS": "$10.48",
+    "Book Value": "$6.61",
+    "Dividend Per Share": "$0.00",
+    "Dividend Yield": "0.98%"
+  },
+  "balance_sheet": {
+    "Fiscal Date": "2025-12-31",
+    "Total Assets": "$7,910,679,587,000",
+    "Total Liabilities": "$2,465,265,640,000",
+    "Shareholder Equity": "$5,404,330,990,000",
+    "Current Assets": "$3,806,379,545,000",
+    "Current Liabilities": "$1,453,912,296,000",
+    "Cash": "$2,760,059,967,000",
+    "Total Debt": "$990,356,650,000"
+  },
+  "income_statement": {
+    "Fiscal Date": "2025-12-31",
+    "Revenue": "$3,848,510,949,000",
+    "Cost of Revenue": "$1,543,585,648,000",
+    "Gross Profit": "$2,304,925,301,000",
+    "Operating Income": "$1,955,695,817,000",
+    "Net Income": "$1,735,678,080,000",
+    "EBITDA": "$2,752,481,885,000"
+  },
+  "cash_flow": {
+    "Fiscal Date": "2025-12-31",
+    "Operating Cash Flow": "$2,383,175,564,000",
+    "Capital Expenditures": "$1,285,591,558,000",
+    "Free Cash Flow": "N/A",
+    "Dividend Payout": "$471,614,236,000"
+  },
+  "earnings": {
+    "Quarterly Earnings": [
+      {
+        "Date": "2025-12-31",
+        "Reported EPS": "$3.14",
+        "Estimated EPS": "$2.78",
+        "Surprise": "$0.36",
+        "Surprise %": "1294.96%"
+      },
+      {
+        "Date": "2025-09-30",
+        "Reported EPS": "$2.92",
+        "Estimated EPS": "$2.66",
+        "Surprise": "$0.26",
+        "Surprise %": "977.44%"
+      },
+      {
+        "Date": "2025-06-30",
+        "Reported EPS": "$2.47",
+        "Estimated EPS": "$2.31",
+        "Surprise": "$0.16",
+        "Surprise %": "692.64%"
+      },
+      {
+        "Date": "2025-03-31",
+        "Reported EPS": "$2.12",
+        "Estimated EPS": "$2.05",
+        "Surprise": "$0.07",
+        "Surprise %": "341.46%"
+      }
+    ],
+    "Annual Earnings": [
+      {
+        "Year": "2025-12-31",
+        "Reported EPS": "$10.65"
+      },
+      {
+        "Year": "2024-12-31",
+        "Reported EPS": "$7.04"
+      },
+      {
+        "Year": "2023-12-31",
+        "Reported EPS": "$5.19"
+      }
+    ],
+    "Upcoming Earnings": []
+  },
+  "corporate_actions": {
+    "Dividends": [
+      {
+        "Ex-Date": "2026-03-17",
+        "Payment Date": "2026-04-09",
+        "Amount": "$0.97"
+      },
+      {
+        "Ex-Date": "2025-12-11",
+        "Payment Date": "2026-01-08",
+        "Amount": "$0.80"
+      },
+      {
+        "Ex-Date": "2025-09-16",
+        "Payment Date": "2025-10-09",
+        "Amount": "$0.82"
+      },
+      {
+        "Ex-Date": "2025-06-12",
+        "Payment Date": "2025-07-10",
+        "Amount": "$0.75"
+      },
+      {
+        "Ex-Date": "2025-03-18",
+        "Payment Date": "2025-04-10",
+        "Amount": "$0.68"
+      },
+      {
+        "Ex-Date": "2024-12-12",
+        "Payment Date": "2025-01-09",
+        "Amount": "$0.62"
+      },
+      {
+        "Ex-Date": "2024-09-12",
+        "Payment Date": "2024-10-09",
+        "Amount": "$0.63"
+      },
+      {
+        "Ex-Date": "2024-06-13",
+        "Payment Date": "2024-07-11",
+        "Amount": "$0.54"
+      },
+      {
+        "Ex-Date": "2024-03-18",
+        "Payment Date": "None",
+        "Amount": "$0.55"
+      },
+      {
+        "Ex-Date": "2023-12-14",
+        "Payment Date": "2024-01-11",
+        "Amount": "$0.48"
+      }
+    ]
+  }
+}

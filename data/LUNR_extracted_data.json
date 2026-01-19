@@ -1,0 +1,120 @@
+{
+  "company_info": {
+    "name": "Intuitive Machines Inc. ",
+    "symbol": "LUNR",
+    "exchange": "NASDAQ",
+    "sector": "INDUSTRIALS",
+    "industry": "AEROSPACE & DEFENSE",
+    "description": "None"
+  },
+  "financial_metrics": {
+    "market_cap": "3071067000",
+    "revenue_ttm": "219936000",
+    "gross_profit_ttm": "1181000",
+    "ebitda": "-64803000",
+    "profit_margin": "-0.944"
+  },
+  "valuation_metrics": {
+    "pe_ratio": "None",
+    "peg_ratio": "None",
+    "price_to_book": "-",
+    "price_to_sales": "13.96",
+    "ev_to_revenue": "12.94",
+    "ev_to_ebitda": "32.76"
+  },
+  "profitability_metrics": {
+    "profit_margin": "-0.944",
+    "operating_margin": "-0.294",
+    "return_on_assets": "-0.0863",
+    "return_on_equity": "-1.775"
+  },
+  "per_share_metrics": {
+    "eps": "-2.46",
+    "diluted_eps": "-2.46",
+    "book_value": "-3.429",
+    "dividend_per_share": "None",
+    "dividend_yield": "None"
+  },
+  "balance_sheet": {
+    "fiscal_date": "2024-12-31",
+    "total_assets": "355404000",
+    "total_liabilities": "351483000",
+    "total_shareholder_equity": "-1003272000",
+    "current_assets": "293161000",
+    "current_liabilities": "98831000",
+    "cash": "207607000",
+    "total_debt": "37380000"
+  },
+  "income_statement": {
+    "fiscal_date": "2024-12-31",
+    "revenue": "228000000",
+    "cost_of_revenue": "190369000",
+    "gross_profit": "37631000",
+    "operating_income": "-57396000",
+    "net_income": "-283413000",
+    "ebitda": "-50493000"
+  },
+  "cash_flow": {
+    "fiscal_date": "2024-12-31",
+    "operating_cashflow": "-57587000",
+    "capital_expenditures": "10111000",
+    "free_cash_flow": "N/A",
+    "dividend_payout": "896000"
+  },
+  "earnings": {
+    "quarterly_earnings": [
+      {
+        "date": "2025-09-30",
+        "reported_eps": "-0.06",
+        "estimated_eps": "-0.0401",
+        "surprise": "-0.0199",
+        "surprise_percentage": "-49.6259"
+      },
+      {
+        "date": "2025-06-30",
+        "reported_eps": "-0.22",
+        "estimated_eps": "0.01",
+        "surprise": "-0.23",
+        "surprise_percentage": "-2300"
+      },
+      {
+        "date": "2025-03-31",
+        "reported_eps": "-0.11",
+        "estimated_eps": "-0.0789",
+        "surprise": "-0.0311",
+        "surprise_percentage": "-39.417"
+      },
+      {
+        "date": "2024-12-31",
+        "reported_eps": "-0.0739",
+        "estimated_eps": "-0.1",
+        "surprise": "0.0261",
+        "surprise_percentage": "26.1"
+      }
+    ],
+    "annual_earnings": [
+      {
+        "year": "2025-12-31",
+        "reported_eps": "-0.39"
+      },
+      {
+        "year": "2024-12-31",
+        "reported_eps": "-2.5989"
+      },
+      {
+        "year": "2023-12-31",
+        "reported_eps": "2.59"
+      }
+    ],
+    "upcoming_earnings": [
+      {
+        "report_date": "2026-03-19",
+        "fiscal_date_ending": "2025-12-31",
+        "estimate": "-0.0623"
+      }
+    ]
+  },
+  "corporate_actions": {
+    "dividends": []
+  }
+}

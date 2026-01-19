@@ -1,0 +1,120 @@
+{
+  "company_info": {
+    "Company Name": "Intuitive Machines Inc. ",
+    "Symbol": "LUNR",
+    "Exchange": "NASDAQ",
+    "Sector": "INDUSTRIALS",
+    "Industry": "AEROSPACE & DEFENSE",
+    "Description": "None"
+  },
+  "financial_metrics": {
+    "Market Cap": "$3,071,067,000",
+    "Revenue (TTM)": "$219,936,000",
+    "Gross Profit (TTM)": "$1,181,000",
+    "EBITDA": "$-64,803,000",
+    "Profit Margin": "-94.40%"
+  },
+  "valuation_metrics": {
+    "P/E Ratio": "N/A",
+    "PEG Ratio": "N/A",
+    "Price-to-Book(P/B) Ratio": "N/A",
+    "Price-to-Sales(P/S) Ratio": "13.96",
+    "EV-to-Revenue(EV/R) Ratio": "12.94",
+    "EV/EBITDA Ratio": "32.76"
+  },
+  "profitability_metrics": {
+    "Profit Margin": "-94.40%",
+    "Operating Margin": "-29.40%",
+    "Return-on-Assets (ROA)": "-8.63%",
+    "Return-on-Equity (ROE)": "-177.50%"
+  },
+  "per_share_metrics": {
+    "EPS": "$-2.46",
+    "Diluted EPS": "$-2.46",
+    "Book Value": "$-3.43",
+    "Dividend Per Share": "N/A",
+    "Dividend Yield": "N/A"
+  },
+  "balance_sheet": {
+    "Fiscal Date": "2024-12-31",
+    "Total Assets": "$355,404,000",
+    "Total Liabilities": "$351,483,000",
+    "Shareholder Equity": "$-1,003,272,000",
+    "Current Assets": "$293,161,000",
+    "Current Liabilities": "$98,831,000",
+    "Cash": "$207,607,000",
+    "Total Debt": "$37,380,000"
+  },
+  "income_statement": {
+    "Fiscal Date": "2024-12-31",
+    "Revenue": "$228,000,000",
+    "Cost of Revenue": "$190,369,000",
+    "Gross Profit": "$37,631,000",
+    "Operating Income": "$-57,396,000",
+    "Net Income": "$-283,413,000",
+    "EBITDA": "$-50,493,000"
+  },
+  "cash_flow": {
+    "Fiscal Date": "2024-12-31",
+    "Operating Cash Flow": "$-57,587,000",
+    "Capital Expenditures": "$10,111,000",
+    "Free Cash Flow": "N/A",
+    "Dividend Payout": "$896,000"
+  },
+  "earnings": {
+    "Quarterly Earnings": [
+      {
+        "Date": "2025-09-30",
+        "Reported EPS": "$-0.06",
+        "Estimated EPS": "$-0.04",
+        "Surprise": "$-0.02",
+        "Surprise %": "-4962.59%"
+      },
+      {
+        "Date": "2025-06-30",
+        "Reported EPS": "$-0.22",
+        "Estimated EPS": "$0.01",
+        "Surprise": "$-0.23",
+        "Surprise %": "-230000.00%"
+      },
+      {
+        "Date": "2025-03-31",
+        "Reported EPS": "$-0.11",
+        "Estimated EPS": "$-0.08",
+        "Surprise": "$-0.03",
+        "Surprise %": "-3941.70%"
+      },
+      {
+        "Date": "2024-12-31",
+        "Reported EPS": "$-0.07",
+        "Estimated EPS": "$-0.10",
+        "Surprise": "$0.03",
+        "Surprise %": "2610.00%"
+      }
+    ],
+    "Annual Earnings": [
+      {
+        "Year": "2025-12-31",
+        "Reported EPS": "$-0.39"
+      },
+      {
+        "Year": "2024-12-31",
+        "Reported EPS": "$-2.60"
+      },
+      {
+        "Year": "2023-12-31",
+        "Reported EPS": "$2.59"
+      }
+    ],
+    "Upcoming Earnings": [
+      {
+        "Report Date": "2026-03-19",
+        "Fiscal Period End": "2025-12-31",
+        "EPS Estimate": "$-0.06"
+      }
+    ]
+  },
+  "corporate_actions": {
+    "Dividends": []
+  }
+}

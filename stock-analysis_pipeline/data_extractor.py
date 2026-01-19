@@ -22,7 +22,7 @@ def extract_financial_metrics(overview):
         'revenue_ttm': overview.get('RevenueTTM', 'N/A'), 
         'gross_profit_ttm': overview.get('GrossProfitTTM', 'N/A'), 
         'ebitda': overview.get('EBITDA', 'N/A'), 
-        'net_income_ttm': overview.get('ProfitMargin', 'N/A') 
+        'profit_margin': overview.get('ProfitMargin', 'N/A') 
     } 
 
 def extract_valuation_metrics(overview): 
@@ -185,4 +185,4 @@ def extract_all_data(ticker):
 
 if __name__ == '__main__': 
     ticker = input(f'\nEnter Symbol: ').upper() 
-    extract_all_data(ticker) 
+    extract_all_data(ticker)
