@@ -119,5 +119,5 @@ def fetch_all_data(ticker):
 
 
 if __name__ == '__main__': 
-    ticker = input('Enter Symbol: ').upper() 
+    ticker = input(f'\nEnter Symbol: ').upper() 
     fetch_all_data(ticker)

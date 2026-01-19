@@ -1,0 +1,171 @@
+{
+  "company_info": {
+    "name": "Taiwan Semiconductor Manufacturing",
+    "symbol": "TSM",
+    "exchange": "NYSE",
+    "sector": "TECHNOLOGY",
+    "industry": "SEMICONDUCTORS",
+    "description": "Taiwan Semiconductor Manufacturing Company, Limited (TSMC) is the leading pure-play semiconductor foundry worldwide, headquartered in Hsinchu, Taiwan. With a strong reputation for innovation and technological excellence, TSMC serves diverse sectors such as telecommunications, high-performance computing, and automotive, underpinning the global technology infrastructure. The company consistently invests in advanced manufacturing processes and cutting-edge technologies, reinforcing its competitive edge in semiconductor fabrication. TSMC's extensive global footprint and strategic partnerships position it favorably to adapt to the dynamic market demands, making it a pivotal player in shaping the future of the semiconductor industry."
+  },
+  "financial_metrics": {
+    "market_cap": "1696557433000",
+    "revenue_ttm": "3631424995000",
+    "gross_profit_ttm": "2141685285000",
+    "ebitda": "2484714078000",
+    "net_income_ttm": "0.433"
+  },
+  "valuation_metrics": {
+    "pe_ratio": "34.15",
+    "peg_ratio": "1.574",
+    "price_to_book": "10.74",
+    "price_to_sales": "0.467",
+    "ev_to_revenue": "11.7",
+    "ev_to_ebitda": "16.3"
+  },
+  "profitability_metrics": {
+    "profit_margin": "0.433",
+    "operating_margin": "0.506",
+    "return_on_assets": "0.166",
+    "return_on_equity": "0.347"
+  },
+  "per_share_metrics": {
+    "eps": "9.58",
+    "diluted_eps": "9.58",
+    "book_value": "6.09",
+    "dividend_per_share": "20.5",
+    "dividend_yield": "0.0103"
+  },
+  "balance_sheet": {
+    "fiscal_date": "2024-12-31",
+    "total_assets": "6691938000000",
+    "total_liabilities": "2368362000000",
+    "total_shareholder_equity": "4288545000000",
+    "current_assets": "3088352000000",
+    "current_liabilities": "1264525000000",
+    "cash": "2127627000000",
+    "total_debt": "986462000000"
+  },
+  "income_statement": {
+    "fiscal_date": "2024-12-31",
+    "revenue": "2894308000000",
+    "cost_of_revenue": "1269954000000",
+    "gross_profit": "1624354000000",
+    "operating_income": "1322053000000",
+    "net_income": "1158380200000",
+    "ebitda": "1984849000000"
+  },
+  "cash_flow": {
+    "fiscal_date": "2024-12-31",
+    "operating_cashflow": "1826177000000",
+    "capital_expenditures": "956007000000",
+    "free_cash_flow": "N/A",
+    "dividend_payout": "363055000000"
+  },
+  "earnings": {
+    "quarterly_earnings": [
+      {
+        "date": "2025-12-31",
+        "reported_eps": "0",
+        "estimated_eps": "2.78",
+        "surprise": "-2.78",
+        "surprise_percentage": "-100"
+      },
+      {
+        "date": "2025-09-30",
+        "reported_eps": "2.92",
+        "estimated_eps": "2.66",
+        "surprise": "0.26",
+        "surprise_percentage": "9.7744"
+      },
+      {
+        "date": "2025-06-30",
+        "reported_eps": "2.47",
+        "estimated_eps": "2.31",
+        "surprise": "0.16",
+        "surprise_percentage": "6.9264"
+      },
+      {
+        "date": "2025-03-31",
+        "reported_eps": "2.12",
+        "estimated_eps": "2.05",
+        "surprise": "0.07",
+        "surprise_percentage": "3.4146"
+      }
+    ],
+    "annual_earnings": [
+      {
+        "year": "2025-12-31",
+        "reported_eps": "7.51"
+      },
+      {
+        "year": "2024-12-31",
+        "reported_eps": "7.04"
+      },
+      {
+        "year": "2023-12-31",
+        "reported_eps": "5.19"
+      }
+    ],
+    "upcoming_earnings": [
+      {
+        "report_date": "2026-01-15",
+        "fiscal_date_ending": "2025-12-31",
+        "estimate": "2.71"
+      }
+    ]
+  },
+  "corporate_actions": {
+    "dividends": [
+      {
+        "ex_date": "2026-03-17",
+        "payment_date": "2026-04-09",
+        "amount": "0.967804"
+      },
+      {
+        "ex_date": "2025-12-11",
+        "payment_date": "2026-01-08",
+        "amount": "0.797246"
+      },
+      {
+        "ex_date": "2025-09-16",
+        "payment_date": "2025-10-09",
+        "amount": "0.81577"
+      },
+      {
+        "ex_date": "2025-06-12",
+        "payment_date": "2025-07-10",
+        "amount": "0.751983"
+      },
+      {
+        "ex_date": "2025-03-18",
+        "payment_date": "2025-04-10",
+        "amount": "0.683789"
+      },
+      {
+        "ex_date": "2024-12-12",
+        "payment_date": "2025-01-09",
+        "amount": "0.615593"
+      },
+      {
+        "ex_date": "2024-09-12",
+        "payment_date": "2024-10-09",
+        "amount": "0.625999"
+      },
+      {
+        "ex_date": "2024-06-13",
+        "payment_date": "2024-07-11",
+        "amount": "0.54429"
+      },
+      {
+        "ex_date": "2024-03-18",
+        "payment_date": "None",
+        "amount": "0.553553"
+      },
+      {
+        "ex_date": "2023-12-14",
+        "payment_date": "2024-01-11",
+        "amount": "0.478667"
+      }
+    ]
+  }
+}
